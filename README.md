@@ -1,6 +1,6 @@
 ## 这是一个示例页面
 
-你可能要找 [SciGen2019](https://https://qtgt.github.io/SciGen) balabalabalabala.
+你可能要找 [SciGen2019](https://qtgt.github.io/SciGen) balabalabalabala.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
